@@ -41,7 +41,7 @@ dt.info()
 dt.nunique()
 ![image](https://github.com/vinodhini-17/EXNO2DS/assets/145742741/70cfcf57-780a-4980-9dee-a3495ded7b8d)
 
-dt["Survived"].value_counts()
+dt["Survived"].value_counts().
 dt
 ![image](https://github.com/vinodhini-17/EXNO2DS/assets/145742741/8c944151-eac5-4b3e-a219-b712630ec57e)
 
